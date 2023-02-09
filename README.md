@@ -28,4 +28,4 @@ hexo deploy 	# 命令用于部署网站，一般可以简写成 hexo d
 hexo clean 		# 命令用于清理缓存文件，是一个比较常用的命令
 ```
 
-git@e.coding.net:linxuanstar/linxuan/linxuan.git
+test

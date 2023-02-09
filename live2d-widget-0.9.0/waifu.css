@@ -107,6 +107,11 @@
 	fill: #0684bd; /* #34495e */
 }
 
+#waifu #live2d {
+	height: 200px!important;
+	width: 200px!important;
+}
+
 @keyframes shake {
 	2% {
 		transform: translate(.5px, -1.5px) rotate(-.5deg);
